@@ -1,16 +1,22 @@
-# Dansk med Ole – Wortschatz und Audio (V14)
+# Dansk med Ole – Wortschatz und Aussprache (V15)
 
-- **128 zusätzliche Vokabeln** auf den Stufen A1 bis C1: je acht neue Wörter in 16 bestehenden Lektionen.
-- **236 Vokabeln insgesamt**, zuzüglich 72 Dialogsätze.
-- **308 MP3-Dateien** sind unter `audio/` im GitHub-Repository enthalten (automatisch durch GitHub Actions erzeugt).
-- **Offline-Unterstützung:** Der Service Worker lädt alle im Manifest aufgeführten MP3-Dateien für die Offline-Nutzung vor. Bei Fehlern nutzt die App nach Möglichkeit die dänische Gerätestimme.
-- Der ursprüngliche Lernfortschritt bleibt durch unveränderte Lektionen- und Vokabelindizes erhalten.
-- Die Aufnahmen wurden mit einer **synthetischen dänischen Computerstimme** erstellt; natürlichere Sprecheraufnahmen können später ersetzt werden.
+- 128 zusätzliche Wörter auf A1–C1, insgesamt 236 Vokabeln und 72 Dialogsätze.
+- 308 vorhandene MP3-Dateien unter `audio/` – weiterhin als Fallback verfügbar.
+- **Neue bevorzugte Sprachausgabe:** die dänische Gerätestimme des Browsers statt der alten, robotisch klingenden eSpeak-Aufnahmen. Der automatische Modus bevorzugt weibliche dänische Stimmen anhand ihrer Namen (z. B. „Sara“).
+- Ein neues Auswahlfeld „Stimme“ zeigt die auf dem Gerät vorhandenen dänischen Stimmen. Man kann eine konkrete Stimme wählen oder die bisherigen MP3s aktivieren.
+- Falls die Geräte-Vorlesefunktion ausfällt, versucht die App die vorhandene MP3-Datei.
+- Das Sprechtempo bleibt einstellbar.
+- Die V15-Service-Worker-Cachekennung lädt die aktualisierte App neu; vorhandener Lernfortschritt bleibt erhalten.
 
-## Audio-Wartung
+## Wichtig zur Sprachqualität
 
-Die GitHub-Aktion `.github/workflows/dansk-audio-v14.yml` erzeugt bei Änderungen an `index.html` oder `tools/generate_audio.py` automatisch neue Audio-Dateien, solange der Entwicklungsbranch existiert. Lokal: `python3 tools/generate_audio.py` (benötigt `espeak` und `ffmpeg`).
+Welche dänischen weiblichen Stimmen auswählbar sind, hängt von iPhone, Browser und installierten Systemstimmen ab. **Es wurden noch keine neuen Frauenstimmen-MP3-Dateien erstellt.** Die vorhandenen MP3s sind weiterhin mit eSpeak erzeugt.
 
-## Qualitätssicherung
+Ein Versuch, 308 MP3s online mit der dänischen weiblichen Neural-Stimme `da-DK-ChristelNeural` zu erzeugen, scheiterte an wiederholten Ausfällen des Online-Sprachdienstes. Dieser nicht zuverlässige Generierungsweg wurde daher nicht in den Produktions-Workflow übernommen.
 
-Die JavaScript-Syntax wurde geprüft. GitHub-Actions hat die 308 MP3-Dateien erzeugt und die Manifest-Zuordnung stimmt vollständig. Die tatsächliche Sprachqualität sollte auf einem iPhone mit dänischer Muttersprache überprüft werden.
+## Prüfung
+
+1. JavaScript-Syntax prüfen.
+2. In der Cloudflare-Vorschau „Stimme“ öffnen und die dänischen Einträge auf dem iPhone testen.
+3. Bei einer weiblichen Stimme (etwa Sara) Wörter und Dialoge anhören, anschließend Wiederholen, Tempo und Offline-Betrieb prüfen.
+4. Erst nach Hörtest eine neue MP3-Produktion in Betracht ziehen.

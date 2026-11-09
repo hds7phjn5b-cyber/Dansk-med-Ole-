@@ -1,4 +1,4 @@
-const CACHE='dansk-ole-course-v14-audio',FILES=["./","./index.html","./manifest.json","./icon.svg","./icon-192.png","./icon-512.png"];
+const CACHE='dansk-ole-course-v15-christel-voice',FILES=["./","./index.html","./manifest.json","./icon.svg","./icon-192.png","./icon-512.png"];
 self.addEventListener('install',e=>e.waitUntil((async()=>{
  const c=await caches.open(CACHE);await c.addAll(FILES);
  try{
