@@ -1,11 +1,16 @@
-# Dansk med Ole – Vokabeln A1–C1 (V14)
+# Dansk med Ole – Wortschatz und Audio (V14)
 
-128 zusätzliche Wörter und Ausdrücke: acht pro Lektion für die 16 bestehenden Lektionen der Stufen A1–C1. Die bisherigen 108 Vokabeln und die C2-Inhalte bleiben erhalten. Die bestehenden Lernstand-Schlüssel bleiben stabil.
+- **128 zusätzliche Vokabeln** auf den Stufen A1 bis C1: je acht neue Wörter in 16 bestehenden Lektionen.
+- **236 Vokabeln insgesamt**, zuzüglich 72 Dialogsätze.
+- **308 MP3-Dateien** sind unter `audio/` im GitHub-Repository enthalten (automatisch durch GitHub Actions erzeugt).
+- **Offline-Unterstützung:** Der Service Worker lädt alle im Manifest aufgeführten MP3-Dateien für die Offline-Nutzung vor. Bei Fehlern nutzt die App nach Möglichkeit die dänische Gerätestimme.
+- Der ursprüngliche Lernfortschritt bleibt durch unveränderte Lektionen- und Vokabelindizes erhalten.
+- Die Aufnahmen wurden mit einer **synthetischen dänischen Computerstimme** erstellt; natürlichere Sprecheraufnahmen können später ersetzt werden.
 
-Die 128 MP3-Dateien zu den neuen Wörtern sind unter den Namen audio/<lektion>-v-<wortindex>.mp3 vorbereitet; sie sind noch **nicht** ins Repository hochgeladen. Das Archiv mit 128 MP3 ist als separate Datei im Chat verfügbar.
+## Audio-Wartung
 
-Bitte das Archiv entpacken und die Dateien des Ordners audio/ in den gleichnamigen Ordner im GitHub-Repository hochladen, bevor die neue Version veröffentlicht wird. Der GitHub-Branch ist nur eine Arbeits-/Vorschauversion, keine Produktionsfreigabe.
+Die GitHub-Aktion `.github/workflows/dansk-audio-v14.yml` erzeugt bei Änderungen an `index.html` oder `tools/generate_audio.py` automatisch neue Audio-Dateien, solange der Entwicklungsbranch existiert. Lokal: `python3 tools/generate_audio.py` (benötigt `espeak` und `ffmpeg`).
 
-Fehlen Audio-Dateien, versucht die App auf dem Gerät eine dänische Vorlesestimme (Web Speech API) zu verwenden. Das ist keine gleichwertige MP3-Datei und hängt vom Gerät ab. Der Service Worker speichert künftig heruntergeladene Audios bei Bedarf statt beim Installieren alle Dateien vorauszusetzen.
+## Qualitätssicherung
 
-Die 128 MP3-Audiodateien verwenden eine synthetische dänische Computerstimme und sind zur späteren Verbesserung durch muttersprachliche Aufnahmen geeignet.
+Die JavaScript-Syntax wurde geprüft. GitHub-Actions hat die 308 MP3-Dateien erzeugt und die Manifest-Zuordnung stimmt vollständig. Die tatsächliche Sprachqualität sollte auf einem iPhone mit dänischer Muttersprache überprüft werden.
