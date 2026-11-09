@@ -1,0 +1,3 @@
+Dansk med Ole – Test der automatischen Cloudflare-Pages-Verbindung
+Datum: 09.11.2026
+Nur Preview-Branch. Keine Änderung an der veröffentlichten App.
