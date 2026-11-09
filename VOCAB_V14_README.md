@@ -1,27 +1,22 @@
-# Dansk med Ole – Vokabeln und Aussprache (V15)
+# Dansk med Ole – Wortschatz und Aussprache (V15)
 
-- 128 zusätzliche Vokabeln von A1 bis C1 gegenüber V13: 236 Vokabeln und 72 Dialogsätze.
-- Insgesamt 308 MP3-Dateien unter `audio/`.
-- **Stimme:** `da-DK-ChristelNeural`, eine weibliche dänische Neural-Stimme. Erzeugung mit `edge-tts`, Sprechtempo `-6%`.
-- **Offline:** Der Service Worker verwendet ab V15 einen neuen Cache und speichert die Sprachdateien auf dem Gerät. Alte eSpeak-Dateien sollen nicht weiter ausgeliefert werden.
-- Lernstände und Vokabelschlüssel werden nicht verändert.
-- Falls eine MP3-Datei fehlt, versucht die App eine dänische Geräte-Stimme, bevorzugt eine als weiblich erkennbare.
+- 128 zusätzliche Wörter auf A1–C1, insgesamt 236 Vokabeln und 72 Dialogsätze.
+- 308 vorhandene MP3-Dateien unter `audio/` – weiterhin als Fallback verfügbar.
+- **Neue bevorzugte Sprachausgabe:** die dänische Gerätestimme des Browsers statt der alten, robotisch klingenden eSpeak-Aufnahmen. Der automatische Modus bevorzugt weibliche dänische Stimmen anhand ihrer Namen (z. B. „Sara“).
+- Ein neues Auswahlfeld „Stimme“ zeigt die auf dem Gerät vorhandenen dänischen Stimmen. Man kann eine konkrete Stimme wählen oder die bisherigen MP3s aktivieren.
+- Falls die Geräte-Vorlesefunktion ausfällt, versucht die App die vorhandene MP3-Datei.
+- Das Sprechtempo bleibt einstellbar.
+- Die V15-Service-Worker-Cachekennung lädt die aktualisierte App neu; vorhandener Lernfortschritt bleibt erhalten.
 
-## Neue Audiodateien erzeugen
+## Wichtig zur Sprachqualität
 
-GitHub Actions: `.github/workflows/dansk-audio-v14.yml` startet bei Änderungen an der Audio-Erzeugung oder an den Lektionen. Das Workflow-Skript ersetzt alte eSpeak-MP3s und committet die neuen Dateien automatisch auf dem jeweiligen Branch.
+Welche dänischen weiblichen Stimmen auswählbar sind, hängt von iPhone, Browser und installierten Systemstimmen ab. **Es wurden noch keine neuen Frauenstimmen-MP3-Dateien erstellt.** Die vorhandenen MP3s sind weiterhin mit eSpeak erzeugt.
 
-Lokal (benötigt Internetverbindung):
-```sh
-python3 -m pip install edge-tts
-python3 tools/generate_audio.py
-```
-Eine erneute vollständige Erzeugung ist mit `FORCE_AUDIO=1 python3 tools/generate_audio.py` möglich. Nach der ersten Erzeugung werden nur MP3s neu geschrieben, wenn sich Stimme, Tempo oder Text ändern.
+Ein Versuch, 308 MP3s online mit der dänischen weiblichen Neural-Stimme `da-DK-ChristelNeural` zu erzeugen, scheiterte an wiederholten Ausfällen des Online-Sprachdienstes. Dieser nicht zuverlässige Generierungsweg wurde daher nicht in den Produktions-Workflow übernommen.
 
-**Hinweis:** `edge-tts` verwendet einen externen Online-Sprachdienst ohne offiziellen SLA. Die vorhandenen fertigen MP3s spielen unabhängig davon offline; zukünftige automatische Regenerierung kann bei Änderungen des Dienstes scheitern. Die erzeugten Dateien und die Zuordnung im Audio-Manifest müssen vor einem Produktionsrelease überprüft werden.
+## Prüfung
 
-## Test
-
-1. GitHub-Actions-Lauf muss erfolgreich sein und 308 aktualisierte Dateien enthalten.
-2. In der Cloudflare-Vorschau dänische Wörter und Dialogsätze abspielen.
-3. Offline-Wiedergabe nach vollständiger Speicherung auf dem iPhone testen, einschließlich Tempo und Wiederholen.
+1. JavaScript-Syntax prüfen.
+2. In der Cloudflare-Vorschau „Stimme“ öffnen und die dänischen Einträge auf dem iPhone testen.
+3. Bei einer weiblichen Stimme (etwa Sara) Wörter und Dialoge anhören, anschließend Wiederholen, Tempo und Offline-Betrieb prüfen.
+4. Erst nach Hörtest eine neue MP3-Produktion in Betracht ziehen.
