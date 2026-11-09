@@ -1,0 +1,1234 @@
+[
+  {
+    "path": "audio/0-d-0.mp3",
+    "danish": "Undskyld, hvor finder jeg mælken?"
+  },
+  {
+    "path": "audio/0-d-1.mp3",
+    "danish": "Den står i køledisken derovre."
+  },
+  {
+    "path": "audio/0-d-2.mp3",
+    "danish": "Tak. Har I også havremælk?"
+  },
+  {
+    "path": "audio/0-d-3.mp3",
+    "danish": "Ja, den står ved siden af."
+  },
+  {
+    "path": "audio/0-v-0.mp3",
+    "danish": "mælken"
+  },
+  {
+    "path": "audio/0-v-1.mp3",
+    "danish": "havremælk"
+  },
+  {
+    "path": "audio/0-v-2.mp3",
+    "danish": "køledisken"
+  },
+  {
+    "path": "audio/0-v-3.mp3",
+    "danish": "derovre"
+  },
+  {
+    "path": "audio/0-v-4.mp3",
+    "danish": "ved siden af"
+  },
+  {
+    "path": "audio/0-v-5.mp3",
+    "danish": "at finde"
+  },
+  {
+    "path": "audio/0-v-6.mp3",
+    "danish": "en indkøbskurv"
+  },
+  {
+    "path": "audio/0-v-7.mp3",
+    "danish": "en kvittering"
+  },
+  {
+    "path": "audio/0-v-8.mp3",
+    "danish": "et tilbud"
+  },
+  {
+    "path": "audio/0-v-9.mp3",
+    "danish": "en vare"
+  },
+  {
+    "path": "audio/0-v-10.mp3",
+    "danish": "en hylde"
+  },
+  {
+    "path": "audio/0-v-11.mp3",
+    "danish": "et betalingskort"
+  },
+  {
+    "path": "audio/0-v-12.mp3",
+    "danish": "en kasse"
+  },
+  {
+    "path": "audio/0-v-13.mp3",
+    "danish": "udsolgt"
+  },
+  {
+    "path": "audio/1-d-0.mp3",
+    "danish": "Godmorgen! Har du tid til en kop kaffe?"
+  },
+  {
+    "path": "audio/1-d-1.mp3",
+    "danish": "Ja, jeg har pause nu."
+  },
+  {
+    "path": "audio/1-d-2.mp3",
+    "danish": "Hvordan går det med opgaven?"
+  },
+  {
+    "path": "audio/1-d-3.mp3",
+    "danish": "Det går fint, men jeg har et spørgsmål."
+  },
+  {
+    "path": "audio/1-v-0.mp3",
+    "danish": "en kollega"
+  },
+  {
+    "path": "audio/1-v-1.mp3",
+    "danish": "en pause"
+  },
+  {
+    "path": "audio/1-v-2.mp3",
+    "danish": "en opgave"
+  },
+  {
+    "path": "audio/1-v-3.mp3",
+    "danish": "et spørgsmål"
+  },
+  {
+    "path": "audio/1-v-4.mp3",
+    "danish": "at hjælpe"
+  },
+  {
+    "path": "audio/1-v-5.mp3",
+    "danish": "tid"
+  },
+  {
+    "path": "audio/1-v-6.mp3",
+    "danish": "et møde"
+  },
+  {
+    "path": "audio/1-v-7.mp3",
+    "danish": "en besked"
+  },
+  {
+    "path": "audio/1-v-8.mp3",
+    "danish": "en deadline"
+  },
+  {
+    "path": "audio/1-v-9.mp3",
+    "danish": "en aftale"
+  },
+  {
+    "path": "audio/1-v-10.mp3",
+    "danish": "at samarbejde"
+  },
+  {
+    "path": "audio/1-v-11.mp3",
+    "danish": "at forklare"
+  },
+  {
+    "path": "audio/1-v-12.mp3",
+    "danish": "at planlægge"
+  },
+  {
+    "path": "audio/1-v-13.mp3",
+    "danish": "travl"
+  },
+  {
+    "path": "audio/2-d-0.mp3",
+    "danish": "Hej, hvad kan jeg hjælpe dig med?"
+  },
+  {
+    "path": "audio/2-d-1.mp3",
+    "danish": "Jeg kan ikke logge ind på min computer."
+  },
+  {
+    "path": "audio/2-d-2.mp3",
+    "danish": "Får du en fejlmeddelelse?"
+  },
+  {
+    "path": "audio/2-d-3.mp3",
+    "danish": "Ja, der står, at adgangskoden er forkert."
+  },
+  {
+    "path": "audio/2-v-0.mp3",
+    "danish": "en computer"
+  },
+  {
+    "path": "audio/2-v-1.mp3",
+    "danish": "en adgangskode"
+  },
+  {
+    "path": "audio/2-v-2.mp3",
+    "danish": "en fejlmeddelelse"
+  },
+  {
+    "path": "audio/2-v-3.mp3",
+    "danish": "at logge ind"
+  },
+  {
+    "path": "audio/2-v-4.mp3",
+    "danish": "forkert"
+  },
+  {
+    "path": "audio/2-v-5.mp3",
+    "danish": "at genstarte"
+  },
+  {
+    "path": "audio/2-v-6.mp3",
+    "danish": "at installere"
+  },
+  {
+    "path": "audio/2-v-7.mp3",
+    "danish": "et netværk"
+  },
+  {
+    "path": "audio/2-v-8.mp3",
+    "danish": "en skærm"
+  },
+  {
+    "path": "audio/2-v-9.mp3",
+    "danish": "en opdatering"
+  },
+  {
+    "path": "audio/2-v-10.mp3",
+    "danish": "en bruger"
+  },
+  {
+    "path": "audio/2-v-11.mp3",
+    "danish": "at oprette en konto"
+  },
+  {
+    "path": "audio/2-v-12.mp3",
+    "danish": "at gemme"
+  },
+  {
+    "path": "audio/2-v-13.mp3",
+    "danish": "en sikkerhedskopi"
+  },
+  {
+    "path": "audio/3-d-0.mp3",
+    "danish": "Hej! Jeg bor lige ved siden af."
+  },
+  {
+    "path": "audio/3-d-1.mp3",
+    "danish": "Hyggeligt at møde dig."
+  },
+  {
+    "path": "audio/3-d-2.mp3",
+    "danish": "Vil du komme forbi til en kop kaffe?"
+  },
+  {
+    "path": "audio/3-d-3.mp3",
+    "danish": "Ja tak, det vil jeg gerne."
+  },
+  {
+    "path": "audio/3-v-0.mp3",
+    "danish": "en nabo"
+  },
+  {
+    "path": "audio/3-v-1.mp3",
+    "danish": "at bo"
+  },
+  {
+    "path": "audio/3-v-2.mp3",
+    "danish": "at møde"
+  },
+  {
+    "path": "audio/3-v-3.mp3",
+    "danish": "at komme forbi"
+  },
+  {
+    "path": "audio/3-v-4.mp3",
+    "danish": "gerne"
+  },
+  {
+    "path": "audio/3-v-5.mp3",
+    "danish": "en kop kaffe"
+  },
+  {
+    "path": "audio/3-v-6.mp3",
+    "danish": "en have"
+  },
+  {
+    "path": "audio/3-v-7.mp3",
+    "danish": "en indkørsel"
+  },
+  {
+    "path": "audio/3-v-8.mp3",
+    "danish": "et hegn"
+  },
+  {
+    "path": "audio/3-v-9.mp3",
+    "danish": "at låne"
+  },
+  {
+    "path": "audio/3-v-10.mp3",
+    "danish": "at invitere"
+  },
+  {
+    "path": "audio/3-v-11.mp3",
+    "danish": "en nøgle"
+  },
+  {
+    "path": "audio/3-v-12.mp3",
+    "danish": "at ringe på"
+  },
+  {
+    "path": "audio/3-v-13.mp3",
+    "danish": "en weekend"
+  },
+  {
+    "path": "audio/4-d-0.mp3",
+    "danish": "Forbindelsen er stadig ustabil, selvom jeg har genstartet routeren."
+  },
+  {
+    "path": "audio/4-d-1.mp3",
+    "danish": "Kan du beskrive, hvornår problemet opstår?"
+  },
+  {
+    "path": "audio/4-d-2.mp3",
+    "danish": "Det sker især, når flere kolleger arbejder hjemmefra."
+  },
+  {
+    "path": "audio/4-d-3.mp3",
+    "danish": "Så foreslår jeg, at vi undersøger netværket sammen."
+  },
+  {
+    "path": "audio/4-v-0.mp3",
+    "danish": "en forbindelse"
+  },
+  {
+    "path": "audio/4-v-1.mp3",
+    "danish": "ustabil"
+  },
+  {
+    "path": "audio/4-v-2.mp3",
+    "danish": "at foreslå"
+  },
+  {
+    "path": "audio/4-v-3.mp3",
+    "danish": "at undersøge"
+  },
+  {
+    "path": "audio/4-v-4.mp3",
+    "danish": "selvom"
+  },
+  {
+    "path": "audio/4-v-5.mp3",
+    "danish": "hjemmefra"
+  },
+  {
+    "path": "audio/4-v-6.mp3",
+    "danish": "en årsag"
+  },
+  {
+    "path": "audio/4-v-7.mp3",
+    "danish": "at opdage"
+  },
+  {
+    "path": "audio/4-v-8.mp3",
+    "danish": "en fejl"
+  },
+  {
+    "path": "audio/4-v-9.mp3",
+    "danish": "at gentage"
+  },
+  {
+    "path": "audio/4-v-10.mp3",
+    "danish": "på grund af"
+  },
+  {
+    "path": "audio/4-v-11.mp3",
+    "danish": "at afprøve"
+  },
+  {
+    "path": "audio/4-v-12.mp3",
+    "danish": "at finde en løsning"
+  },
+  {
+    "path": "audio/4-v-13.mp3",
+    "danish": "at virke"
+  },
+  {
+    "path": "audio/5-d-0.mp3",
+    "danish": "Hvad har du arbejdet med tidligere?"
+  },
+  {
+    "path": "audio/5-d-1.mp3",
+    "danish": "Jeg har erfaring med kundeservice og flytning af data."
+  },
+  {
+    "path": "audio/5-d-2.mp3",
+    "danish": "Hvorfor vil du gerne skifte arbejde?"
+  },
+  {
+    "path": "audio/5-d-3.mp3",
+    "danish": "Jeg vil gerne bruge mit dansk mere og lære nye systemer at kende."
+  },
+  {
+    "path": "audio/5-v-0.mp3",
+    "danish": "erfaring"
+  },
+  {
+    "path": "audio/5-v-1.mp3",
+    "danish": "kundeservice"
+  },
+  {
+    "path": "audio/5-v-2.mp3",
+    "danish": "at skifte arbejde"
+  },
+  {
+    "path": "audio/5-v-3.mp3",
+    "danish": "en ansøgning"
+  },
+  {
+    "path": "audio/5-v-4.mp3",
+    "danish": "et ansvar"
+  },
+  {
+    "path": "audio/5-v-5.mp3",
+    "danish": "at udvikle sig"
+  },
+  {
+    "path": "audio/5-v-6.mp3",
+    "danish": "et cv"
+  },
+  {
+    "path": "audio/5-v-7.mp3",
+    "danish": "en jobsamtale"
+  },
+  {
+    "path": "audio/5-v-8.mp3",
+    "danish": "en løn"
+  },
+  {
+    "path": "audio/5-v-9.mp3",
+    "danish": "en arbejdstid"
+  },
+  {
+    "path": "audio/5-v-10.mp3",
+    "danish": "en medarbejder"
+  },
+  {
+    "path": "audio/5-v-11.mp3",
+    "danish": "en arbejdsopgave"
+  },
+  {
+    "path": "audio/5-v-12.mp3",
+    "danish": "en stilling"
+  },
+  {
+    "path": "audio/5-v-13.mp3",
+    "danish": "at ansætte"
+  },
+  {
+    "path": "audio/6-d-0.mp3",
+    "danish": "Jeg overvejer at købe en brugt cykel i stedet for en ny."
+  },
+  {
+    "path": "audio/6-d-1.mp3",
+    "danish": "Det er både billigere og bedre for miljøet."
+  },
+  {
+    "path": "audio/6-d-2.mp3",
+    "danish": "Ja, men jeg vil sikre mig, at bremserne virker."
+  },
+  {
+    "path": "audio/6-d-3.mp3",
+    "danish": "Vi kan spørge sælgeren, om vi må prøve den først."
+  },
+  {
+    "path": "audio/6-v-0.mp3",
+    "danish": "brugt"
+  },
+  {
+    "path": "audio/6-v-1.mp3",
+    "danish": "miljøet"
+  },
+  {
+    "path": "audio/6-v-2.mp3",
+    "danish": "at overveje"
+  },
+  {
+    "path": "audio/6-v-3.mp3",
+    "danish": "i stedet for"
+  },
+  {
+    "path": "audio/6-v-4.mp3",
+    "danish": "at reparere"
+  },
+  {
+    "path": "audio/6-v-5.mp3",
+    "danish": "en sælger"
+  },
+  {
+    "path": "audio/6-v-6.mp3",
+    "danish": "at genbruge"
+  },
+  {
+    "path": "audio/6-v-7.mp3",
+    "danish": "affald"
+  },
+  {
+    "path": "audio/6-v-8.mp3",
+    "danish": "at spare på strømmen"
+  },
+  {
+    "path": "audio/6-v-9.mp3",
+    "danish": "en emballage"
+  },
+  {
+    "path": "audio/6-v-10.mp3",
+    "danish": "at sortere"
+  },
+  {
+    "path": "audio/6-v-11.mp3",
+    "danish": "bæredygtig"
+  },
+  {
+    "path": "audio/6-v-12.mp3",
+    "danish": "en klimabelastning"
+  },
+  {
+    "path": "audio/6-v-13.mp3",
+    "danish": "en ressource"
+  },
+  {
+    "path": "audio/7-d-0.mp3",
+    "danish": "Jeg synes, vi skal holde mødet tidligere på dagen."
+  },
+  {
+    "path": "audio/7-d-1.mp3",
+    "danish": "Det passer mig dårligt, fordi jeg afleverer mit barn om morgenen."
+  },
+  {
+    "path": "audio/7-d-2.mp3",
+    "danish": "Hvad med at begynde klokken ti i stedet?"
+  },
+  {
+    "path": "audio/7-d-3.mp3",
+    "danish": "Det kan jeg godt. Så har jeg også tid til at forberede mig."
+  },
+  {
+    "path": "audio/7-v-0.mp3",
+    "danish": "en beslutning"
+  },
+  {
+    "path": "audio/7-v-1.mp3",
+    "danish": "at forberede sig"
+  },
+  {
+    "path": "audio/7-v-2.mp3",
+    "danish": "en løsning"
+  },
+  {
+    "path": "audio/7-v-3.mp3",
+    "danish": "at passe"
+  },
+  {
+    "path": "audio/7-v-4.mp3",
+    "danish": "tidligere"
+  },
+  {
+    "path": "audio/7-v-5.mp3",
+    "danish": "et forslag"
+  },
+  {
+    "path": "audio/7-v-6.mp3",
+    "danish": "en mulighed"
+  },
+  {
+    "path": "audio/7-v-7.mp3",
+    "danish": "en fordel"
+  },
+  {
+    "path": "audio/7-v-8.mp3",
+    "danish": "en ulempe"
+  },
+  {
+    "path": "audio/7-v-9.mp3",
+    "danish": "at vælge"
+  },
+  {
+    "path": "audio/7-v-10.mp3",
+    "danish": "en konsekvens"
+  },
+  {
+    "path": "audio/7-v-11.mp3",
+    "danish": "at sammenligne"
+  },
+  {
+    "path": "audio/7-v-12.mp3",
+    "danish": "at blive enige"
+  },
+  {
+    "path": "audio/7-v-13.mp3",
+    "danish": "et kompromis"
+  },
+  {
+    "path": "audio/8-d-0.mp3",
+    "danish": "Digitale løsninger kan spare tid, men de er ikke lige nemme for alle."
+  },
+  {
+    "path": "audio/8-d-1.mp3",
+    "danish": "Jeg er enig. Nogle borgere har brug for personlig vejledning."
+  },
+  {
+    "path": "audio/8-d-2.mp3",
+    "danish": "På den anden side giver digitale tilbud større fleksibilitet."
+  },
+  {
+    "path": "audio/8-d-3.mp3",
+    "danish": "Derfor bør kommunen tilbyde flere måder at få hjælp på."
+  },
+  {
+    "path": "audio/8-v-0.mp3",
+    "danish": "en myndighed"
+  },
+  {
+    "path": "audio/8-v-1.mp3",
+    "danish": "vejledning"
+  },
+  {
+    "path": "audio/8-v-2.mp3",
+    "danish": "tilgængelighed"
+  },
+  {
+    "path": "audio/8-v-3.mp3",
+    "danish": "på den anden side"
+  },
+  {
+    "path": "audio/8-v-4.mp3",
+    "danish": "en forudsætning"
+  },
+  {
+    "path": "audio/8-v-5.mp3",
+    "danish": "at tage hensyn til"
+  },
+  {
+    "path": "audio/8-v-6.mp3",
+    "danish": "en ansøgningsfrist"
+  },
+  {
+    "path": "audio/8-v-7.mp3",
+    "danish": "at indsende"
+  },
+  {
+    "path": "audio/8-v-8.mp3",
+    "danish": "en sagsbehandler"
+  },
+  {
+    "path": "audio/8-v-9.mp3",
+    "danish": "en tilladelse"
+  },
+  {
+    "path": "audio/8-v-10.mp3",
+    "danish": "en oplysning"
+  },
+  {
+    "path": "audio/8-v-11.mp3",
+    "danish": "en digital løsning"
+  },
+  {
+    "path": "audio/8-v-12.mp3",
+    "danish": "at behandle en sag"
+  },
+  {
+    "path": "audio/8-v-13.mp3",
+    "danish": "dokumentation"
+  },
+  {
+    "path": "audio/9-d-0.mp3",
+    "danish": "Hjemmearbejde kan give mere ro til opgaver, der kræver koncentration."
+  },
+  {
+    "path": "audio/9-d-1.mp3",
+    "danish": "Til gengæld kan det blive sværere at dele viden spontant."
+  },
+  {
+    "path": "audio/9-d-2.mp3",
+    "danish": "Det afhænger nok af, hvordan teamet organiserer samarbejdet."
+  },
+  {
+    "path": "audio/9-d-3.mp3",
+    "danish": "En fælles aftale bør derfor tage hensyn til både opgaverne og medarbejderne."
+  },
+  {
+    "path": "audio/9-v-0.mp3",
+    "danish": "til gengæld"
+  },
+  {
+    "path": "audio/9-v-1.mp3",
+    "danish": "videndeling"
+  },
+  {
+    "path": "audio/9-v-2.mp3",
+    "danish": "en ulempe"
+  },
+  {
+    "path": "audio/9-v-3.mp3",
+    "danish": "en fordel"
+  },
+  {
+    "path": "audio/9-v-4.mp3",
+    "danish": "at afhænge af"
+  },
+  {
+    "path": "audio/9-v-5.mp3",
+    "danish": "sammenhold"
+  },
+  {
+    "path": "audio/9-v-6.mp3",
+    "danish": "hjemmearbejde"
+  },
+  {
+    "path": "audio/9-v-7.mp3",
+    "danish": "en arbejdsbyrde"
+  },
+  {
+    "path": "audio/9-v-8.mp3",
+    "danish": "en forventning"
+  },
+  {
+    "path": "audio/9-v-9.mp3",
+    "danish": "at prioritere"
+  },
+  {
+    "path": "audio/9-v-10.mp3",
+    "danish": "en forudsætning"
+  },
+  {
+    "path": "audio/9-v-11.mp3",
+    "danish": "at koordinere"
+  },
+  {
+    "path": "audio/9-v-12.mp3",
+    "danish": "en arbejdsplads"
+  },
+  {
+    "path": "audio/9-v-13.mp3",
+    "danish": "at overholde en frist"
+  },
+  {
+    "path": "audio/10-d-0.mp3",
+    "danish": "Andelen, der cykler til arbejde, er steget i vores eksempel."
+  },
+  {
+    "path": "audio/10-d-1.mp3",
+    "danish": "Det kan skyldes bedre cykelstier, men også ændrede transportvaner."
+  },
+  {
+    "path": "audio/10-d-2.mp3",
+    "danish": "Tallene viser dog ikke, hvilken årsag der er vigtigst."
+  },
+  {
+    "path": "audio/10-d-3.mp3",
+    "danish": "Derfor bør vi undersøge flere forhold, før vi drager en konklusion."
+  },
+  {
+    "path": "audio/10-v-0.mp3",
+    "danish": "en andel"
+  },
+  {
+    "path": "audio/10-v-1.mp3",
+    "danish": "at stige"
+  },
+  {
+    "path": "audio/10-v-2.mp3",
+    "danish": "at skyldes"
+  },
+  {
+    "path": "audio/10-v-3.mp3",
+    "danish": "en årsag"
+  },
+  {
+    "path": "audio/10-v-4.mp3",
+    "danish": "at drage en konklusion"
+  },
+  {
+    "path": "audio/10-v-5.mp3",
+    "danish": "en udvikling"
+  },
+  {
+    "path": "audio/10-v-6.mp3",
+    "danish": "en udledning"
+  },
+  {
+    "path": "audio/10-v-7.mp3",
+    "danish": "offentlig transport"
+  },
+  {
+    "path": "audio/10-v-8.mp3",
+    "danish": "et incitament"
+  },
+  {
+    "path": "audio/10-v-9.mp3",
+    "danish": "at reducere"
+  },
+  {
+    "path": "audio/10-v-10.mp3",
+    "danish": "en transportform"
+  },
+  {
+    "path": "audio/10-v-11.mp3",
+    "danish": "en investering"
+  },
+  {
+    "path": "audio/10-v-12.mp3",
+    "danish": "et alternativ"
+  },
+  {
+    "path": "audio/10-v-13.mp3",
+    "danish": "langsigtet"
+  },
+  {
+    "path": "audio/11-d-0.mp3",
+    "danish": "Frivilligt arbejde kan styrke fællesskabet og skabe nye relationer."
+  },
+  {
+    "path": "audio/11-d-1.mp3",
+    "danish": "Ja, men man bør ikke forvente, at frivillige erstatter faguddannet personale."
+  },
+  {
+    "path": "audio/11-d-2.mp3",
+    "danish": "Det afgørende er, at ansvar og forventninger er tydelige."
+  },
+  {
+    "path": "audio/11-d-3.mp3",
+    "danish": "Samlet set kan frivillige bidrage meget, hvis indsatsen organiseres ordentligt."
+  },
+  {
+    "path": "audio/11-v-0.mp3",
+    "danish": "fællesskab"
+  },
+  {
+    "path": "audio/11-v-1.mp3",
+    "danish": "frivillig"
+  },
+  {
+    "path": "audio/11-v-2.mp3",
+    "danish": "at bidrage"
+  },
+  {
+    "path": "audio/11-v-3.mp3",
+    "danish": "en forventning"
+  },
+  {
+    "path": "audio/11-v-4.mp3",
+    "danish": "faguddannet"
+  },
+  {
+    "path": "audio/11-v-5.mp3",
+    "danish": "samlet set"
+  },
+  {
+    "path": "audio/11-v-6.mp3",
+    "danish": "en forening"
+  },
+  {
+    "path": "audio/11-v-7.mp3",
+    "danish": "en frivillig indsats"
+  },
+  {
+    "path": "audio/11-v-8.mp3",
+    "danish": "at engagere sig"
+  },
+  {
+    "path": "audio/11-v-9.mp3",
+    "danish": "en målgruppe"
+  },
+  {
+    "path": "audio/11-v-10.mp3",
+    "danish": "at styrke"
+  },
+  {
+    "path": "audio/11-v-11.mp3",
+    "danish": "et lokalsamfund"
+  },
+  {
+    "path": "audio/11-v-12.mp3",
+    "danish": "en udfordring"
+  },
+  {
+    "path": "audio/11-v-13.mp3",
+    "danish": "en tilskudsordning"
+  },
+  {
+    "path": "audio/12-d-0.mp3",
+    "danish": "Hej! Jeg hedder Anna. Hvad hedder du?"
+  },
+  {
+    "path": "audio/12-d-1.mp3",
+    "danish": "Jeg hedder Ole. Jeg bor i Danmark."
+  },
+  {
+    "path": "audio/12-d-2.mp3",
+    "danish": "Hvor kommer du fra?"
+  },
+  {
+    "path": "audio/12-d-3.mp3",
+    "danish": "Jeg kommer fra Tyskland. Og du?"
+  },
+  {
+    "path": "audio/12-v-0.mp3",
+    "danish": "at hedde"
+  },
+  {
+    "path": "audio/12-v-1.mp3",
+    "danish": "at komme fra"
+  },
+  {
+    "path": "audio/12-v-2.mp3",
+    "danish": "Danmark"
+  },
+  {
+    "path": "audio/12-v-3.mp3",
+    "danish": "Tyskland"
+  },
+  {
+    "path": "audio/12-v-4.mp3",
+    "danish": "hvor"
+  },
+  {
+    "path": "audio/12-v-5.mp3",
+    "danish": "hej"
+  },
+  {
+    "path": "audio/12-v-6.mp3",
+    "danish": "jeg"
+  },
+  {
+    "path": "audio/12-v-7.mp3",
+    "danish": "du"
+  },
+  {
+    "path": "audio/12-v-8.mp3",
+    "danish": "han"
+  },
+  {
+    "path": "audio/12-v-9.mp3",
+    "danish": "hun"
+  },
+  {
+    "path": "audio/12-v-10.mp3",
+    "danish": "vi"
+  },
+  {
+    "path": "audio/12-v-11.mp3",
+    "danish": "I"
+  },
+  {
+    "path": "audio/12-v-12.mp3",
+    "danish": "at være"
+  },
+  {
+    "path": "audio/12-v-13.mp3",
+    "danish": "at tale"
+  },
+  {
+    "path": "audio/13-d-0.mp3",
+    "danish": "Goddag. Jeg vil gerne have en kaffe."
+  },
+  {
+    "path": "audio/13-d-1.mp3",
+    "danish": "Vil du også have et glas vand?"
+  },
+  {
+    "path": "audio/13-d-2.mp3",
+    "danish": "Ja tak. Hvad koster det?"
+  },
+  {
+    "path": "audio/13-d-3.mp3",
+    "danish": "Det koster tyve kroner."
+  },
+  {
+    "path": "audio/13-v-0.mp3",
+    "danish": "et glas"
+  },
+  {
+    "path": "audio/13-v-1.mp3",
+    "danish": "vand"
+  },
+  {
+    "path": "audio/13-v-2.mp3",
+    "danish": "tyve"
+  },
+  {
+    "path": "audio/13-v-3.mp3",
+    "danish": "at koste"
+  },
+  {
+    "path": "audio/13-v-4.mp3",
+    "danish": "en krone"
+  },
+  {
+    "path": "audio/13-v-5.mp3",
+    "danish": "tak"
+  },
+  {
+    "path": "audio/13-v-6.mp3",
+    "danish": "kaffe"
+  },
+  {
+    "path": "audio/13-v-7.mp3",
+    "danish": "te"
+  },
+  {
+    "path": "audio/13-v-8.mp3",
+    "danish": "et bord"
+  },
+  {
+    "path": "audio/13-v-9.mp3",
+    "danish": "en regning"
+  },
+  {
+    "path": "audio/13-v-10.mp3",
+    "danish": "at betale"
+  },
+  {
+    "path": "audio/13-v-11.mp3",
+    "danish": "en kop"
+  },
+  {
+    "path": "audio/13-v-12.mp3",
+    "danish": "et stykke kage"
+  },
+  {
+    "path": "audio/13-v-13.mp3",
+    "danish": "godmorgen"
+  },
+  {
+    "path": "audio/14-d-0.mp3",
+    "danish": "Vi kan ganske vist fremrykke leveringen, men det forudsætter, at omfanget fastlægges nu."
+  },
+  {
+    "path": "audio/14-d-1.mp3",
+    "danish": "Det er forståeligt. Til gengæld har vi brug for en bindende aftale om fejlrettelser."
+  },
+  {
+    "path": "audio/14-d-2.mp3",
+    "danish": "Lad os skelne mellem kritiske fejl og ændringer, der udvider den oprindelige opgave."
+  },
+  {
+    "path": "audio/14-d-3.mp3",
+    "danish": "Hvis den sondring fremgår tydeligt, kan vi acceptere en trinvis levering."
+  },
+  {
+    "path": "audio/14-v-0.mp3",
+    "danish": "et forbehold"
+  },
+  {
+    "path": "audio/14-v-1.mp3",
+    "danish": "bindende"
+  },
+  {
+    "path": "audio/14-v-2.mp3",
+    "danish": "at fremrykke"
+  },
+  {
+    "path": "audio/14-v-3.mp3",
+    "danish": "til gengæld"
+  },
+  {
+    "path": "audio/14-v-4.mp3",
+    "danish": "en sondring"
+  },
+  {
+    "path": "audio/14-v-5.mp3",
+    "danish": "trinvis"
+  },
+  {
+    "path": "audio/14-v-6.mp3",
+    "danish": "en indrømmelse"
+  },
+  {
+    "path": "audio/14-v-7.mp3",
+    "danish": "et forhandlingsgrundlag"
+  },
+  {
+    "path": "audio/14-v-8.mp3",
+    "danish": "en betingelse"
+  },
+  {
+    "path": "audio/14-v-9.mp3",
+    "danish": "at imødekomme"
+  },
+  {
+    "path": "audio/14-v-10.mp3",
+    "danish": "at forpligte sig"
+  },
+  {
+    "path": "audio/14-v-11.mp3",
+    "danish": "et råderum"
+  },
+  {
+    "path": "audio/14-v-12.mp3",
+    "danish": "at afveje"
+  },
+  {
+    "path": "audio/14-v-13.mp3",
+    "danish": "et tilsagn"
+  },
+  {
+    "path": "audio/15-d-0.mp3",
+    "danish": "Tallene tyder på en forbedring, men stikprøven er for lille til en sikker konklusion."
+  },
+  {
+    "path": "audio/15-d-1.mp3",
+    "danish": "Kan forskellen skyldes, at andre medarbejdere deltog denne gang?"
+  },
+  {
+    "path": "audio/15-d-2.mp3",
+    "danish": "Det kan ikke udelukkes. Derfor bør vi følge de samme deltagere over længere tid."
+  },
+  {
+    "path": "audio/15-d-3.mp3",
+    "danish": "Så anbefalingen er en udvidet undersøgelse snarere end en øjeblikkelig omlægning?"
+  },
+  {
+    "path": "audio/15-v-0.mp3",
+    "danish": "en stikprøve"
+  },
+  {
+    "path": "audio/15-v-1.mp3",
+    "danish": "et datagrundlag"
+  },
+  {
+    "path": "audio/15-v-2.mp3",
+    "danish": "at udelukke"
+  },
+  {
+    "path": "audio/15-v-3.mp3",
+    "danish": "en sammenhæng"
+  },
+  {
+    "path": "audio/15-v-4.mp3",
+    "danish": "en årsagssammenhæng"
+  },
+  {
+    "path": "audio/15-v-5.mp3",
+    "danish": "et forbehold"
+  },
+  {
+    "path": "audio/15-v-6.mp3",
+    "danish": "en skævhed"
+  },
+  {
+    "path": "audio/15-v-7.mp3",
+    "danish": "et repræsentativt udsnit"
+  },
+  {
+    "path": "audio/15-v-8.mp3",
+    "danish": "at underbygge"
+  },
+  {
+    "path": "audio/15-v-9.mp3",
+    "danish": "en usikkerhedsmargin"
+  },
+  {
+    "path": "audio/15-v-10.mp3",
+    "danish": "at generalisere"
+  },
+  {
+    "path": "audio/15-v-11.mp3",
+    "danish": "en fejlkilde"
+  },
+  {
+    "path": "audio/15-v-12.mp3",
+    "danish": "en tendens"
+  },
+  {
+    "path": "audio/15-v-13.mp3",
+    "danish": "en antagelse"
+  },
+  {
+    "path": "audio/16-d-0.mp3",
+    "danish": "Det er da en interessant måde at prioritere på."
+  },
+  {
+    "path": "audio/16-d-1.mp3",
+    "danish": "Mener du, at vi overser noget væsentligt?"
+  },
+  {
+    "path": "audio/16-d-2.mp3",
+    "danish": "Jeg hæfter mig blot ved, at de mest berørte endnu ikke er blevet hørt."
+  },
+  {
+    "path": "audio/16-d-3.mp3",
+    "danish": "Så lad os få deres perspektiv med, før vi kalder processen afsluttet."
+  },
+  {
+    "path": "audio/16-v-0.mp3",
+    "danish": "underforstået"
+  },
+  {
+    "path": "audio/16-v-1.mp3",
+    "danish": "en undertone"
+  },
+  {
+    "path": "audio/16-v-2.mp3",
+    "danish": "at hæfte sig ved"
+  },
+  {
+    "path": "audio/16-v-3.mp3",
+    "danish": "forbeholden"
+  },
+  {
+    "path": "audio/16-v-4.mp3",
+    "danish": "at tage til genmæle"
+  },
+  {
+    "path": "audio/16-v-5.mp3",
+    "danish": "en tilkendegivelse"
+  },
+  {
+    "path": "audio/17-d-0.mp3",
+    "danish": "Hvor rimeligt ønsket om ensartede regler end er, løser det ikke alle tilfælde."
+  },
+  {
+    "path": "audio/17-d-1.mp3",
+    "danish": "Omvendt kan ubegrænset skøn gøre afgørelserne uforudsigelige."
+  },
+  {
+    "path": "audio/17-d-2.mp3",
+    "danish": "Vi bør måske skelne mellem fælles kriterier og identiske resultater."
+  },
+  {
+    "path": "audio/17-d-3.mp3",
+    "danish": "Netop. Afvigelser skal kunne begrundes, men forskelle er ikke i sig selv tegn på vilkårlighed."
+  },
+  {
+    "path": "audio/17-v-0.mp3",
+    "danish": "et skøn"
+  },
+  {
+    "path": "audio/17-v-1.mp3",
+    "danish": "vilkårlighed"
+  },
+  {
+    "path": "audio/17-v-2.mp3",
+    "danish": "en afvejning"
+  },
+  {
+    "path": "audio/17-v-3.mp3",
+    "danish": "at efterprøve"
+  },
+  {
+    "path": "audio/17-v-4.mp3",
+    "danish": "et spændingsfelt"
+  },
+  {
+    "path": "audio/17-v-5.mp3",
+    "danish": "en præmis"
+  }
+]
