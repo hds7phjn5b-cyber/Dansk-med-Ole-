@@ -1,5 +1,16 @@
-const CACHE='dansk-ole-course-v14',FILES=["./","./index.html","./manifest.json","./icon.svg","./icon-192.png","./icon-512.png"];
-self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES)).then(()=>self.skipWaiting())));
+const CACHE='dansk-ole-course-v14-audio',FILES=["./","./index.html","./manifest.json","./icon.svg","./icon-192.png","./icon-512.png"];
+self.addEventListener('install',e=>e.waitUntil((async()=>{
+ const c=await caches.open(CACHE);await c.addAll(FILES);
+ try{
+  const response=await fetch('./audio-manifest.json',{cache:'no-store'});
+  if(response.ok){
+   const items=await response.json();
+   const names=items.filter(x=>x&&typeof x.path==='string'&&x.path.startsWith('audio/')&&x.path.endsWith('.mp3')).map(x=>'./'+x.path);
+   for(let i=0;i<names.length;i+=16)await Promise.allSettled(names.slice(i,i+16).map(name=>c.add(name)));
+  }
+ }catch{}
+ await self.skipWaiting();
+})()));
 self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith('dansk-ole-')&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
 async function respond(request){
  if(request.mode==='navigate'){try{const fresh=await fetch(request);if(fresh.ok)return fresh}catch{}}
