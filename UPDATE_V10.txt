@@ -1,0 +1,1 @@
+Version 10: 60 zusätzliche dänische TTS-MP3s für A1, C1 und C2. Insgesamt 180 Audiodateien. Gesamten Inhalt inklusive audio auf Cloudflare hochladen. Neu online öffnen und Offline bereit abwarten.

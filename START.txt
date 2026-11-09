@@ -1,0 +1,9 @@
+DANSK MED OLE – VERSION 13
+
+1. Im bestehenden Cloudflare-Pages-Projekt zunächst im Bereich „Fortschritt“ den Lernstand als JSON exportieren.
+2. Diese ZIP-Datei entpacken. Den vollständigen entpackten INHALT (einschließlich audio/, sw.js, index.html, manifest.json und Bildern) ins bestehende Pages-Projekt hochladen.
+3. Auf dem iPhone nach Veröffentlichung die bestehende Adresse um ?v=13 ergänzen und bei Bedarf aktualisieren.
+4. Prüfen, ob oben „VERSION 13“ erscheint und alle 180 Beispielaudios offline bereit sind.
+5. Im Wortschatzbereich die direkte Rückmeldung schriftlich testen und bei verfügbarer Browser-Spracherkennung die Spracheingabe testen. Für die Tastatur-Diktierfunktion das iPhone-Tastaturmikrofon verwenden.
+
+Lernstände bleiben im selben Browser und unter derselben Webadresse gespeichert. Der JSON-Export enthält keine gespeicherten Sprachaufnahmen. Die ZIP-Datei selbst ist noch keine Veröffentlichung.

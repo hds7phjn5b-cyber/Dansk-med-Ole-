@@ -1,0 +1,19 @@
+DANSK MED OLE – VERSION 13 (8. November 2026)
+
+Neu:
+- Vokabeln im Modus „Tippen / Sprechen“ werden während des Schreibens sofort auf Richtigkeit geprüft, unabhängig von Groß-/Kleinschreibung und häufigen Artikeln.
+- „🎤 Antwort sprechen“ nutzt – falls verfügbar – die Browser-Spracherkennung für Deutsch und prüft deren Text unmittelbar. Auf iOS kann alternativ die Diktier-Mikrofontaste der Bildschirmtastatur verwendet werden. Die bisherige Audio-Aufnahme ist weiterhin nur zum Anhören, nicht zur automatischen Auswertung. Die Spracherkennung benötigt gegebenenfalls Internet und ist kein Aussprachetest.
+- Im Vier-Antworten-Modus erfolgt die Rückmeldung direkt nach Auswahl. Kein zusätzlicher Prüf-Klick nötig.
+- Kleine Belohnungen: Punkte, richtige Antworten in Folge und Abzeichen. Eine Aufgabe gibt maximal einmal pro Kalendertag Punkte; richtige Antworten bleiben auch danach sichtbar.
+- Leseaufgaben bringen ebenfalls Punkte.
+- Lernstand bleibt v3 (Erweiterung um optionales Feld rewards), bestehende lokale Lernstände bleiben erhalten.
+- Offline-Cache v13 (damit auf dem iPhone die neue Oberfläche lädt).
+
+Wichtig: Freie Gesprächsantworten haben mehrere mögliche richtige Formen und werden nicht automatisch als richtig/falsch bewertet. Keine automatische Auswertung gespeicherter Audiodateien.
+
+Installation:
+1. In der aktuell verwendeten App unter Fortschritt den Lernstand als JSON-Datei sichern.
+2. ZIP vollständig entpacken und den gesamten Inhalt in das bestehende Cloudflare-Pages-Projekt laden (einschließlich audio/ und sw.js).
+3. Nach der Bereitstellung in Safari mit ?v=13 öffnen, gegebenenfalls Tab neu laden.
+4. Im Wortschatztraining testen: Tippen „Ein Vorbehalt“ bei Lösung „ein Vorbehalt“ → direkt grünes Richtig.
+5. Sprachtest nur auf echtem Gerät mit erteilten Berechtigungen möglich.

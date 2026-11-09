@@ -1,0 +1,5 @@
+Version 11 – Fortschritt korrigiert
+Richtige Multiple-Choice-Antworten zählen sofort im Fortschritt.
+Gefestigt: drei richtige Antworten in Folge.
+Vorhandene Lernstände und Aufnahmen bleiben beim Update auf derselben Webadresse und im selben Browser erhalten. Alte, vom Fehler zurückgesetzte richtige Antworten sind nicht rekonstruierbar.
+ZIP komplett einschließlich audio auf das bestehende Cloudflare-Projekt hochladen. Version 11 abwarten.

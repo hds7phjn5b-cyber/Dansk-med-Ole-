@@ -1,0 +1,23 @@
+Dansk med Ole – Version 12 (8. November 2026)
+
+NEU:
+- 5-Minuten-Runde mit bis zu 6 aktuell fälligen Vokabeln pro Sprachniveau und Fortschrittsanzeige
+- iPhone-optimierte untere Navigationsleiste, größere Berührungsflächen und Safe-Area-Abstand
+- MP3-Wiedergabe über ein wiederverwendbares Audioelement; Satz/Dialog erneut hören
+- Abspieltempo: 0,75 / 0,85 / 1,0 / 1,1 (ohne Änderung der Quelldateien)
+- Satzstarter und Grammatikhinweise in Gesprächsübungen
+- Speicherformat des Lernstands bleibt Version 3. Keine Datenmigration notwendig.
+
+BEIBEHALTEN:
+- Alle 18 Lektionen und 180 MP3-Dateien aus V11, 108 Wörter
+- Fortschritt, Texte und eigene Aufnahmen über Browser-LocalStorage und IndexedDB
+- Prüfungsaufgaben, Lesetests, Online/Offline-Unterstützung
+
+INSTALLATION:
+1. Sicherheitskopie des Lernstands in der bisherigen App exportieren (Fortschritt > Lernstand exportieren).
+2. Den KOMPLETTEN entpackten Inhalt dieses ZIPs auf dieselbe Cloudflare-Pages-Adresse hochladen; insbesondere audio/, index.html, sw.js, manifest.json und die Icons.
+3. Danach https://danskappn.pages.dev/?v=12 in Safari öffnen (nur falls die bisherige Adresse noch so lautet).
+4. Prüfen, ob oben VERSION 12 steht und die 180 Audio-Dateien offline bereit sind.
+5. Über iPhone-Safari die Sprachwiedergabe und Mikrofonaufnahme testen.
+
+WICHTIG: Die Quelldateien der MP3s sind unverändert. Es wurden keine Stimmen neu generiert und kein realer iPhone-Test durchgeführt. Ein anderer Browser oder eine neue Webadresse kann den bisherigen lokalen Lernstand nicht automatisch übernehmen; dafür die Export-/Import-Funktion verwenden. Bei einer fehlerhaften Offline-Aktualisierung Safari neu laden.

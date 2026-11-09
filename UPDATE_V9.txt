@@ -1,0 +1,6 @@
+Version 9 – A1 bis C2
+Gesamten ZIP-Inhalt inklusive audio auf das bestehende Cloudflare-Projekt hochladen. Dieselbe Webadresse beibehalten, damit Lernstand und Aufnahmen weiter zugeordnet werden.
+Sechs farbige, direkt anwählbare Stufen. 18 Lektionen und 108 Vokabeln. Wiederholen übt Wörter der gewählten Stufe.
+A1, C1, C2 enthalten jeweils zwei neue Textlektionen mit Gesprächen, Lesen, Schreibaufgaben, Vokabelauswahl und eigenen Aufnahmen. Für die neuen Lektionen fehlen noch Beispielaudios; die 120 bisherigen Audios für A2–B2 bleiben enthalten.
+Die Module sind keine vollständigen Kurse oder Einstufungstests.
+Logik von Stufen, Lektionen, Wortauswahl und Aufnahmespeicher geprüft. Darstellung und Mikrofon auf dem iPhone noch testen.
